@@ -1,5 +1,5 @@
 <!-- 
-This program demonstrate Factory Method design pattern.
+This program demonstrates Factory Method design pattern.
 Usage Scenario - 
     1. When uncertain about the type of object we might need to create
     2. Separates the object creation code from the business logic that uses a product

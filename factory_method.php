@@ -1,3 +1,5 @@
+<?php
+
 /*
  * This program demonstrates the Factory Method design pattern.
  * Usage Scenarios:
@@ -7,8 +9,6 @@
  *
  * Tutorial Credit: PHP Design Pattern Course (https://app.pluralsight.com/)
  */
-
-<?php
 
 // Prodcut interface
 interface Transport{

@@ -1,12 +1,12 @@
-<!-- 
-This program demonstrates Factory Method design pattern.
-Usage Scenario - 
-    1. When uncertain about the type of object we might need to create
-    2. Separates the object creation code from the business logic that uses a product
-    3. New Products can be added by simply extending the Product interface
-
-Tutorial Credit: PHP Design Pattern Course (https://app.pluralsight.com/)
- -->
+/*
+ * This program demonstrates the Factory Method design pattern.
+ * Usage Scenarios:
+ * 1. When uncertain about the type of object we might need to create.
+ * 2. Separates the object creation code from the business logic that uses the product.
+ * 3. New products can be added by simply extending the Product interface.
+ *
+ * Tutorial Credit: PHP Design Pattern Course (https://app.pluralsight.com/)
+ */
 
 <?php
 
